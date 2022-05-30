@@ -52,7 +52,6 @@ Wpisz swoje dane logowania przed wysłaniem request-a. W przypadku Postman-a wyb
 api/products - zwróci wszytskie produkty - METODA GET
 
 ```sh
-http://livewire.kalwinscy.pl/api/products
 http://127.0.0.1:8000/api/products
 ```
 
@@ -60,7 +59,6 @@ api/products/{id} - zwróci szczegóły danego produktu - METODA GET
 
 poniższy przykład zwróci szczegóły produktu o id 1
 ```sh
-http://livewire.kalwinscy.pl/api/products/1
 http://127.0.0.1:8000/api/products/1
 ```
 
