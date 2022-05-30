@@ -32,7 +32,7 @@ php artisan key:generate
 npm install
 ```
 
-Stwórz bazę danych MySql i uzupełnij plik .env 
+Stwórz bazę danych MySql i uzupełnij plik .env. Następnie uruchom poniższe polecenia
 
 ```sh
 php artisan migrate:fresh --seed
@@ -47,7 +47,7 @@ wejdź na adres
 
 ## API
 Pobranie produktów wymaga uwierzytelnienia metodą Basic Auth
-Wpisz swoje dane logowania przed wysłaniem request-a. W przypadku Postman-a. Wybierz zakładkę Authorization i typ Basic Auth
+Wpisz swoje dane logowania przed wysłaniem request-a. W przypadku Postman-a wybierz zakładkę "Authorization" i typ "Basic Auth"
 
 api/products - zwróci wszytskie produkty - METODA GET
 
