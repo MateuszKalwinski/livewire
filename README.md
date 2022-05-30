@@ -1,5 +1,5 @@
-##### Możesz obejrzeć aplikację pod linkiem
-# [Livewire app](http://livewire.kalwinscy.pl/)
+
+# Livewire APP
 
 ## Funkcje
 
