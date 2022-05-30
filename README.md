@@ -21,7 +21,7 @@
 
 ## Instalacja
 
-Projekt wymaga node w wersji 17.x.x w moim przypadku było to 17.7.2 oraz NPM w wersji 7.x.x u mnie jest to 8.5.2
+Projekt wymaga node w wersji 17.x.x w moim przypadku było to 17.7.2, NPM w wersji 7.x.x u mnie jest to 8.5.2 oraz PHP 8.x.x u mnie 8.1.6
 
 
 ```sh
